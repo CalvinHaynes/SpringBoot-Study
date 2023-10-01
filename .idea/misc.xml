@@ -15,6 +15,9 @@
         <option value="$PROJECT_DIR$/Demo5_StaticResourcesInjection/pom.xml" />
         <option value="$PROJECT_DIR$/demo1-hellospringboot3/pom.xml" />
         <option value="$PROJECT_DIR$/Demo_SpringBoot2/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo-SpringBoot3/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo-SpringBoot3/Demo01-HelloSpringBoot3/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo-SpringBoot3/Demo02-IOC/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

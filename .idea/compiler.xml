@@ -8,7 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Demo6_ThymeleafAndMVC" />
+        <module name="Demo02-IOC" />
         <module name="Demo8_SpringBootMyBatis" />
+        <module name="Demo01-HelloSpringBoot3" />
         <module name="Demo4_InjectionUsingYaml" />
         <module name="study-client-starter" />
         <module name="Demo5_StaticResourcesInjection" />
@@ -24,6 +26,9 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Demo-SpringBoot3" options="" />
+      <module name="Demo01-HelloSpringBoot3" options="-parameters" />
+      <module name="Demo02-IOC" options="-parameters" />
       <module name="Demo1_HelloWorld" options="-parameters" />
       <module name="Demo3_TacoCloud_WebAPP" options="-parameters" />
       <module name="Demo4_InjectionUsingYaml" options="-parameters" />
