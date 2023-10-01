@@ -7,14 +7,11 @@
         <artifactId>Demo_SpringBoot2</artifactId>
         <version>1.0.0</version>
     </parent>
-    <groupId>top.calvinhaynes</groupId>
     <artifactId>Demo9_SpringSecurity</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Demo9_SpringSecurity</name>
     <description>Demo9_SpringSecurity</description>
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
+
     <dependencies>
 
         <!--thymeleaf的springsecurity5附加包-->

@@ -15,6 +15,9 @@
     <description>Demo-SpringBoot3</description>
     <packaging>pom</packaging>
 
-
+    <modules>
+        <module>Demo01-HelloSpringBoot3</module>
+        <module>Demo02-IOC</module>
+    </modules>
 
 </project>
