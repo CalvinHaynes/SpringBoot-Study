@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.1.4</version>
+    </parent>
+    <groupId>top.calvinhaynes</groupId>
+    <artifactId>Demo_SpringBoot2</artifactId>
+    <version>1.0.0</version>
+    <name>Demo_SpringBoot2</name>
+    <description>Demo_SpringBoot2</description>
+<!--    在聚合项目的pom.xml文件中，确保该项目的主要作用是管理子项目，而不是生成JAR文件-->
+    <packaging>pom</packaging>
+
+
+
+    <modules>
+        <module>Demo1_HelloWorld</module>
+        <module>Demo2_JDBC_Druid</module>
+        <module>Demo3_TacoCloud_WebAPP</module>
+        <module>Demo4_InjectionUsingYaml</module>
+        <module>Demo5_StaticResourcesInjection</module>
+        <module>Demo6_ThymeleafAndMVC</module>
+        <module>Demo7_SpringBootStarter</module>
+        <module>Demo8_SpringBootMyBatis</module>
+        <module>Demo9_SpringSecurity</module>
+    </modules>
+
+
+</project>
