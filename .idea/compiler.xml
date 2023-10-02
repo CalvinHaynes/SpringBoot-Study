@@ -14,6 +14,7 @@
         <module name="Demo01-HelloSpringBoot3" />
         <module name="jdbc" />
         <module name="Demo1_HelloWorld" />
+        <module name="Demo06-Log" />
         <module name="Demo05-Yaml" />
         <module name="Demo4_InjectionUsingYaml" />
         <module name="study-client-starter" />
@@ -35,6 +36,7 @@
       <module name="Demo03-ConditionalAnnotation" options="-parameters" />
       <module name="Demo04-ConfigurationProperties" options="-parameters" />
       <module name="Demo05-Yaml" options="-parameters" />
+      <module name="Demo06-Log" options="-parameters" />
       <module name="Demo1_HelloWorld" options="-parameters" />
       <module name="Demo3_TacoCloud_WebAPP" options="-parameters" />
       <module name="Demo4_InjectionUsingYaml" options="-parameters" />

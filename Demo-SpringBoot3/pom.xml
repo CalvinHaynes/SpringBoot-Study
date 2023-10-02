@@ -21,6 +21,7 @@
         <module>Demo03-ConditionalAnnotation</module>
         <module>Demo04-ConfigurationProperties</module>
         <module>Demo05-Yaml</module>
+        <module>Demo06-Log</module>
     </modules>
 
 </project>
