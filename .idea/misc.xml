@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/Demo-SpringBoot3/pom.xml" />
         <option value="$PROJECT_DIR$/Demo-SpringBoot3/Demo01-HelloSpringBoot3/pom.xml" />
         <option value="$PROJECT_DIR$/Demo-SpringBoot3/Demo02-IOC/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo-SpringBoot3/Demo03-ConditionalAnnotation/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

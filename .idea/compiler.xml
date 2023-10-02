@@ -14,6 +14,7 @@
         <module name="Demo4_InjectionUsingYaml" />
         <module name="study-client-starter" />
         <module name="Demo5_StaticResourcesInjection" />
+        <module name="Demo03-ConditionalAnnotation" />
         <module name="jdbc" />
         <module name="Demo3_TacoCloud_WebAPP" />
         <module name="Demo1_HelloWorld" />
@@ -29,6 +30,7 @@
       <module name="Demo-SpringBoot3" options="" />
       <module name="Demo01-HelloSpringBoot3" options="-parameters" />
       <module name="Demo02-IOC" options="-parameters" />
+      <module name="Demo03-ConditionalAnnotation" options="-parameters" />
       <module name="Demo1_HelloWorld" options="-parameters" />
       <module name="Demo3_TacoCloud_WebAPP" options="-parameters" />
       <module name="Demo4_InjectionUsingYaml" options="-parameters" />
