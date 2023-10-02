@@ -6,7 +6,6 @@
         <groupId>top.calvinhaynes</groupId>
         <artifactId>Demo-SpringBoot3</artifactId>
         <version>1.0.0</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>top.calvinhaynes</groupId>
     <artifactId>Demo01-HelloSpringBoot3</artifactId>

@@ -13,6 +13,7 @@
     <name>Demo_SpringBoot2</name>
     <description>Demo_SpringBoot2</description>
 <!--    在聚合项目的pom.xml文件中，确保该项目的主要作用是管理子项目，而不是生成JAR文件-->
+<!--    父子模块之间本质上也是没有强依赖关系的，只是父模块管理子模块，子模块可以继承父模块的一些配置，比如版本号等。-->
     <packaging>pom</packaging>
 
     <properties>
