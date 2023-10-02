@@ -1,0 +1,31 @@
+person:
+  name: "Calvin Haynes"
+  age: 21
+  birth-day: 2002/05/23 12:00:00
+  like: true
+  child:
+    name: "Jack \n Haynes" # 双引号会转义【\n会显示为换行符】
+    age: 1
+    birth-day: 2020/05/23 12:00:00
+    # text: ['hello /n world', 'hello world'] # 第一种数组写法
+    text: # 第二种数组写法
+      - 'hello /n world'  # 单引号不会转义【\n 则为普通字符串显示】
+      - 'hello world'
+      - | # 大文本第一种写法
+        我是
+        一个
+        粉刷匠
+      - > # 大文本第二种写法
+        我是
+        一个
+        粉刷匠
+  dogs:
+    - name: "小黑"
+      age: 3
+    - name: "小白"
+      age: 2
+  cats:
+    C1:
+        name: "小花"
+        age: 1
+    C2: {name: "小黑", age: 2} #对象也可用{}表示

@@ -10,14 +10,16 @@
         <module name="Demo6_ThymeleafAndMVC" />
         <module name="Demo02-IOC" />
         <module name="Demo8_SpringBootMyBatis" />
+        <module name="Demo04-ConfigurationProperties" />
         <module name="Demo01-HelloSpringBoot3" />
+        <module name="jdbc" />
+        <module name="Demo1_HelloWorld" />
+        <module name="Demo05-Yaml" />
         <module name="Demo4_InjectionUsingYaml" />
         <module name="study-client-starter" />
         <module name="Demo5_StaticResourcesInjection" />
         <module name="Demo03-ConditionalAnnotation" />
-        <module name="jdbc" />
         <module name="Demo3_TacoCloud_WebAPP" />
-        <module name="Demo1_HelloWorld" />
         <module name="Demo9_SpringSecurity" />
       </profile>
     </annotationProcessing>
@@ -31,6 +33,8 @@
       <module name="Demo01-HelloSpringBoot3" options="-parameters" />
       <module name="Demo02-IOC" options="-parameters" />
       <module name="Demo03-ConditionalAnnotation" options="-parameters" />
+      <module name="Demo04-ConfigurationProperties" options="-parameters" />
+      <module name="Demo05-Yaml" options="-parameters" />
       <module name="Demo1_HelloWorld" options="-parameters" />
       <module name="Demo3_TacoCloud_WebAPP" options="-parameters" />
       <module name="Demo4_InjectionUsingYaml" options="-parameters" />

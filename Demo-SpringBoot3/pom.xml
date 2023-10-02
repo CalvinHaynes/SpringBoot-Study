@@ -18,6 +18,9 @@
     <modules>
         <module>Demo01-HelloSpringBoot3</module>
         <module>Demo02-IOC</module>
+        <module>Demo03-ConditionalAnnotation</module>
+        <module>Demo04-ConfigurationProperties</module>
+        <module>Demo05-Yaml</module>
     </modules>
 
 </project>
