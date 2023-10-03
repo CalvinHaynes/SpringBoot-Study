@@ -1,0 +1,9 @@
+logging:
+  pattern:
+    console: '%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level [%thread] %logger{15} ===> %msg%n' # 设置日志输出格式
+  group:
+    abc: top.calvinhaynes.demo06log.controller,top.calvinhaynes.demo06log.pojo # 设置日志分组名为abc,并指定该分组下的所有包名
+  level:
+    root: info # 设置日志根输出级别(所有未指定的日志输出级别都将使用该级别),SpringBoot中默认日志级别就是info
+    top.calvinhaynes.demo06log.controller: debug # 精确设置指定包下的日志输出级别
+    abc: debug # 设置分组日志输出级别

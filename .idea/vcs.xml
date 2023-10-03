@@ -2,6 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Demo-SpringBoot3/Demo06-Log" vcs="Git" />
   </component>
 </project>
